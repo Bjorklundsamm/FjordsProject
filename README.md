@@ -5,7 +5,7 @@
 ## Description
 *(instances have been terminated upon project completion, for demo or product walk-through please contact organization team leader Samuel Bjorklund at https://github.com/Bjorklundsamm/)*
 
-Collaborative project containing collection of single page web applications designed congruantly for displaying and managing product detail page of an outdoors/camping equipment retailer. All components are designed solely as front-end development projects and have not been scaled or optimized by Team libraFX. All back-end features have been developed around use of procedurally generated stored in MongoDB. Project released in association with Galvanize, SEI.
+Collaborative project containing collection of single page web applications designed congruantly for displaying and managing product detail page of an outdoors/camping equipment retailer. All components are designed solely as front-end development projects and have not been scaled or optimized by Team libraFX. All back-end features have been developed around use of procedurally generated data stored in MongoDB. Project released in association with Galvanize, SEI.
 For more detailed information on each product including requirements, instructions, and implementation please see the individual README files per component.
 
 ## Featured Components
