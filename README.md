@@ -35,6 +35,14 @@ Interactive image carousel tasked with displaying all product variations, tracki
 ## **Similar Products** _(Alex Klyuev)_
 Highly interactive image carousel design to determine, highlight and feature similar products as designated by client. Optimized for sorting and handling large amounts of instanced data at minimum impact to load times. Developed using React, Express, Concurrently, and Node.js. Compiled using Webpack and Babel following the AirBnB style preset for ESLint. For more details regarding libraries and other tools used during development please see direct repository!(https://github.com/LibraFX/similar-products)
 
-**High-level functionality, low-level error rate**
+**High functionality, low error rate**
+
 ![Similar](./Examples/Similar.gif)
 
+Thank you for your interest in our product!
+All projects feature are available, open source, at our organization's page(https://github.com/LibraFX).
+If your interested in discussing the product featured above or any potential future projects we may be involved in please don't hesitate to reach out to us at the links feature above.
+
+#### Samuel Bjorklund
+##### libraFX team-lead
+#### Full Stack Engineer
