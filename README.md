@@ -45,4 +45,5 @@ If your interested in discussing the product featured above or any potential fut
 
 #### Samuel Bjorklund
 > libraFX team-lead
+
 > Full Stack Engineer
