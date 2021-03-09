@@ -44,5 +44,5 @@ All projects feature are available, open source, at our organization's page(http
 If your interested in discussing the product featured above or any potential future projects we may be involved in please don't hesitate to reach out to us at the links feature above.
 
 #### Samuel Bjorklund
-##### libraFX team-lead
-#### Full Stack Engineer
+> libraFX team-lead
+> Full Stack Engineer
